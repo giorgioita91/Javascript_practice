@@ -298,3 +298,9 @@ html body #container main #filterContainer button {
     transform: translateY(0);
   }
 }
+
+
+.imgInvisible{
+  display: none;
+}
+
